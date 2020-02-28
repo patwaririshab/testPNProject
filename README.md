@@ -23,6 +23,11 @@ This is the sample payload that worked
       "category": "VIEW_IDENTIFIER"
     }
 }
-
-
 ```
+
+## How to test
+1. Build and run project in Xcode 11.4 beta 2
+2. In an editor, copy and paste the sample JSON Payload above, then save as `.apns` file
+3. Drag and drop the sample JSON Payload into your simulator when app is NOT in the foreground
+
+
