@@ -6,9 +6,10 @@ required implementation in code.
 In order to use this project you will need:
 - Xcode 11.4 beta 2
 
-
-Instructions:
+Reference:
 - https://www.raywenderlich.com/8164-push-notifications-tutorial-getting-started
+
+Setting up local push notifications in Xcode 11.4 beta 2:
 - https://medium.com/swlh/simulating-push-notifications-in-ios-simulator-9e5198bed4a4
 
 This is the sample payload that worked
